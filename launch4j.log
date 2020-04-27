@@ -1,0 +1,58 @@
+
+
+Version:	3.12
+CmdLine:	D:\eclipse-workspace\Snake\Snake.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\eclipse-workspace\Snake\.
+Java min ver:	1.000.001
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_211\bin\java.exe
+Check launcher:	C:\Program Files\Java\jre1.8.0_211\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_211
+Check launcher:	C:\Program Files\Java\jre1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000_211
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_211 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_211\bin\javaw.exe
+Launcher args:	-jar "D:\eclipse-workspace\Snake\Snake.exe"
+Args length:	43/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\eclipse-workspace\Snake\Snake.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\eclipse-workspace\Snake\.
+Java min ver:	1.000.001
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_211\bin\java.exe
+Check launcher:	C:\Program Files\Java\jre1.8.0_211\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_211
+Check launcher:	C:\Program Files\Java\jre1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000_211
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_211 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_211\bin\javaw.exe
+Launcher args:	-jar "D:\eclipse-workspace\Snake\Snake.exe"
+Args length:	43/32768 chars
+Exit code:	0

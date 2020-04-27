@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\eclipse-workspace\Snake\Snake.jar</jar>
+  <outfile>D:\eclipse-workspace\Snake\Snake.exe</outfile>
+  <errTitle>Erreur java</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>high</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\eclipse-workspace\Snake\Images\snake.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jre1.8.0_211\bin\java.exe</path>
+    <bundledJre64Bit>true</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.0.1</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.0.0.1</fileVersion>
+    <txtFileVersion>None</txtFileVersion>
+    <fileDescription>Snake projet tutoré</fileDescription>
+    <copyright>IUT de belfort montbéliard</copyright>
+    <productVersion>0.0.0.1</productVersion>
+    <txtProductVersion>None</txtProductVersion>
+    <productName>Snake</productName>
+    <companyName>IUT de belfort montbéliard</companyName>
+    <internalName>Département informatique</internalName>
+    <originalFilename>Snake.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>FRENCH</language>
+  </versionInfo>
+  <messages>
+    <startupErr>Une erreur est survenue au lancement de l&apos;application</startupErr>
+    <bundledJreErr>This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.</bundledJreErr>
+    <jreVersionErr>Cette application nécessite Java Runtine Environement (JRE) pour s&apos;éxecuter</jreVersionErr>
+    <launcherErr>Erreur de lancement</launcherErr>
+    <instanceAlreadyExistsMsg>L&apos;application est déja lancée</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
